@@ -7,7 +7,7 @@ import (
 func main() {
 	var id int
 	var x, y float64
-	var human bool = true
+	var human = true
 
 	id = 55
 	x = 0
